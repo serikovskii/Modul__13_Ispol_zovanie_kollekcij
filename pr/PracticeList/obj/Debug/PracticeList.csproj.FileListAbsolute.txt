@@ -1,0 +1,7 @@
+C:\Users\azat\source\repos\PracticeList\PracticeList\bin\Debug\PracticeList.exe.config
+C:\Users\azat\source\repos\PracticeList\PracticeList\bin\Debug\PracticeList.exe
+C:\Users\azat\source\repos\PracticeList\PracticeList\bin\Debug\PracticeList.pdb
+C:\Users\azat\source\repos\PracticeList\PracticeList\obj\Debug\PracticeList.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\PracticeList\PracticeList\obj\Debug\PracticeList.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\PracticeList\PracticeList\obj\Debug\PracticeList.exe
+C:\Users\azat\source\repos\PracticeList\PracticeList\obj\Debug\PracticeList.pdb
